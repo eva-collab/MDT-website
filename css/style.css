@@ -1,9 +1,11 @@
 .myDiv {
-	border: 10px outset green;
-	background-color: #4d8351;
+	border: 10px outset #345845;
+	background-color: #345845;
 	padding: 200px 50px;
 	text-align: justify;
 }
+
+
 
 .bg-myColor1 {
 	background-color:#a9db9e;
@@ -13,3 +15,6 @@
 	padding: 14px 16px;
 }
 
+.hoogte {
+	height: 100rem; 
+}

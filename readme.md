@@ -9,7 +9,7 @@ Dingen die ik op mijn website wil hebben. voor het project
     - agenda/ nieuwe content
     - footer: linkjes socials/ email
     later ideeën:
-    - meet en greet 
+    - meet en greet (agenda)
     functioneel:
     -
     layout:
