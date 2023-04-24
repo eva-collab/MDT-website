@@ -8,8 +8,10 @@ Dingen die ik op mijn website wil hebben. voor het project
     - beantwoorden verhalen (Q&a)
     - agenda/ nieuwe content
     - footer: linkjes socials/ email
+    
     later ideeën:
     - meet en greet (agenda)
+    - rijtjes in de footer
     functioneel:
     -
     layout:

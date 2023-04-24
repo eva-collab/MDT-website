@@ -5,8 +5,6 @@
 	text-align: justify;
 }
 
-
-
 .bg-myColor1 {
 	background-color:#a9db9e;
 }
@@ -17,4 +15,16 @@
 
 .hoogte {
 	height: 100rem; 
+}
+
+.btn-space {
+    margin-right: 5px;
+}
+
+.bg-custom1 {
+	background-color: #36994d;
+}
+
+.bg-custom2 {
+	background-color: #41a559;
 }
